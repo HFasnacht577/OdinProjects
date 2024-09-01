@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+
+header p {
+    margin: auto;
+}
+
+header div {
+    width: 60%;
+}
+
+a {
+    justify-content: right;
+}
